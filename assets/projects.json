@@ -1,0 +1,63 @@
+[    {
+        "title": "Item Inventory",
+        "imgPaths": ["assets/images/inventory-website.png"],
+        "stack": ["PHP", "ReactJS","Javascript", "MySQL", "Bootstrap", "Apache Server", "Custom API"],
+        "class": "fade-right",
+        "curImgIdx": 0,
+        "id": "img1",
+        "gitHubLink": "",
+        "desc": "Created a clean and modern Inventory Web Application that allows the user to add items with many parameter to a database, delete, update, and fetch them. The website was made responsive and incorporates many languages and technologies. "
+    },
+    {
+        "title": "Space Shooter",
+        "imgPaths": ["assets/images/space 3.png", "assets/images/space 1.png"],
+        "stack": ["Python", "Pygame", "Sprites"],
+        "class": "fade-right",
+        "curImgIdx": 0,
+        "id": "img1",
+        "gitHubLink": "https://github.com/DaanyaalTahir/space-shooter",
+        "desc": "Space shooter game utilizing python, pygame, and sprites. User has option of selectng difficulty level. Once selected the user then shoots incoming asteroids given 5 lives until the wave is completed. "
+    },
+    {
+        "title": "Movie Nomination",
+        "imgPaths": ["assets/images/movieSearch.png", "assets/images/movFinder 2.png"],
+        "stack": ["Angular", "Typescript", "HTML", "CSS", "Angular Material", "OMDB API"],
+        "class": "fade-right",
+        "curImgIdx": 0,
+        "id": "img2",
+        "gitHubLink": "https://github.com/DaanyaalTahir/movie-finder", 
+        "link": "https://daanyaaltahir.github.io/movie-finder/",
+        "desc": "Completed Shopify Challenge where users can search for movies and nominate titles found in the OMDb API. Nominations can then be viewed in the Nomination tab where it will be displayed as a grid and the user has the option of removing selections."
+
+    },
+    {
+        "title": "Vehicle Registration",
+        "imgPaths": ["assets/images/car 2.png", "assets/images/car 1.png", "assets/images/car 3.png"],
+        "stack": ["Java", "OOP", "Polymorphism"],
+        "class": "fade-right",
+        "curImgIdx": 0,
+        "id": "img3",
+        "gitHubLink": "https://github.com/DaanyaalTahir/vehicle-registration",
+        "desc": "Created java GUI project that utlizes polymorphism as well as class interation. User can add a type of vehicle (car, truck, or boat) and input various aspects about the vehicle such as color, millage, make, etc. Following that the user can then view all inputted fields in a table where the user can sort their vehicles depending on specific aspects like millage. "
+    },
+    {
+        "title": "Connect Four",
+        "imgPaths": [ "assets/images/connectFourTitle.png", "assets/images/connect4 1.png", "assets/images/connect4 3.png"],
+        "stack": ["Java", "OOP", "Android Studio"],
+        "class": "fade-right",
+        "curImgIdx": 0,
+        "id": "img4",
+        "gitHubLink": "https://github.com/DaanyaalTahir/ConnectFour",
+        "desc": "Created a two player Connect Four game app using android studio. The game includes many animations as well as a clean GUI. I'm currently working on incorporating the minimax algorithm in order to have a single player mode."
+    },
+    {
+        "title": "Portfolio Website",
+        "imgPaths": [ "assets/images/portfolioWebsite.png"],
+        "stack": ["Javascript", "Angular", "Angular Materials", "particle.js", "HTML", "CSS", "AOS Library"],
+        "class": "fade-right",
+        "curImgIdx": 0,
+        "id": "img4",
+        "gitHubLink": "https://github.com/DaanyaalTahir/DaanyaalTahir.github.io",
+        "desc": "Created website to display my experiencs, projects, and skills. Utilizes many animations such as fading, sliding, etc."
+    }
+]

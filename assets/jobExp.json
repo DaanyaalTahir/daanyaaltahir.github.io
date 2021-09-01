@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Web Developer",
+        "company": "Rogers Communications",
+        "location": "Remote",
+        "img": "assets/images/rogers.png",
+        "description": [
+            "Worked directly on sportsnet.ca which attracts millions of users using ReactJS, react-router, redux, SCSS, HTML, JavaScript, and more.",
+            "Created internal tools utilized by developers and stakeholders using ReactJS, NodeJS, AWS s3, JavaScript, etc.",
+            "Worked with a team that included devs, ui designers, project managers and QA testers in agile scrum environment to construct Olympics, Football, WNBA, and Soccer pages on sportsnet.ca ",
+            "Created and worked on tickets from Jira Board and deployed code to GitHub",
+            "Developed reusable components to be utilized throughout sportsnet and within internal tools",
+            "Demoed work to stakeholders and other teams"
+        ],
+        "date": "May 2021 - August 2021"
+    },
+    {
+        "title": "Full Stack Developer",
+        "company": "Completely Managed Inc.",
+        "location": "Newmarket, ON",
+        "img": "assets/images/CM.png",
+        "description": [
+            "Worked alongside 5 developers on website to display network analytics to customers. ",
+            "Led and organized projects.",
+            "Drove team meetings and supported other programmers when required.",
+            "Interviewed potential candidates to help hire new staff, and later trained new hires.",
+            "Utilized JS/TS, CSS/SCSS, Redux and AngularJS framework for frontend to generate modern and clean UI’s such as a wizard for scan process/configuration, scan scheduling, scan progress bar, network results etc.",
+            "Utilized NodeJS, Loopback API and HTTP request to redo the backend for networkscans to be more efficient and to communicate with frontend.",
+            "Parsed and applied user defined profiles to devices found on network before sending to frontend during scans.",
+            "Displayed live feed of data for all running scans using WebSocket’s.",
+            "Accessed project sandboxes for frontend, backend, database etc. with Docker and docker-compose.",
+            "Stored and manipulated data on MySQL database and mongoDB",
+            "Restructured MySQL table used for network scans to be more efficient/organized.",
+            "Utilized Linux to access, edit (vim) and search for files (grep)",
+            "Created branches using GitLab for specific bugs/features and later merged to master branch."
+        ],
+        "date": "Jun 2020 - Dec 2020"
+    }
+]
